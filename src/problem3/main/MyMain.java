@@ -11,10 +11,10 @@ public class MyMain
 {
     public static void main(String[] args) {
         MyPriorityQueue obj = new MyPriorityQueue();
-        obj.insert("tushar",1);
-        obj.insert("kartik",4);
-        obj.insert("yash",3);
-        obj.insert("pranjul",2);
-        obj.insert("jalanki",5);
+        obj.insert("Siddhant",1);
+        obj.insert("Snehal",4);
+        obj.insert("Pradhuman",3);
+        obj.insert("Prashant",2);
+        obj.insert("Aishwarya",5);
         obj.display();
     }
